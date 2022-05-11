@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4Hofit</folder>
+	<filename>4_C11_220407100224.bmp</filename>
+	<path>C:\Users\hofit.h\Downloads\4Hofit\4_C11_220407100224.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>1200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piston</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>630</ymin>
+			<xmax>343</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>
